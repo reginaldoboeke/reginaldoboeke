@@ -8,9 +8,9 @@ I also keep a solid foundation in **front-end development** (React, Angular 2+),
 ---
 
 ### ⚙️ Tech Stack  
-**Languages:** Go, TypeScript, JavaScript, PHP  
-**Databases:** MySQL, MariaDB, MongoDB, ElasticSearch, SQLite, Firebird, PostgreSQL
-**Infra & Tools:** Docker, Redis, RabbitMQ, Lambda, Prometheus, Loki, Grafana  
+ **Languages:** Go, TypeScript, JavaScript, PHP  
+ **Databases:** MySQL, MariaDB, MongoDB, ElasticSearch, SQLite, Firebird, PostgreSQL <br>
+ **Infra & Tools:** Docker, Redis, RabbitMQ, Lambda, Prometheus, Loki, Grafana  
 
 ---
 
