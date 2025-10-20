@@ -1,33 +1,18 @@
-### Hi, I'm Reginaldo Boeke
+## 👋 Hey, I'm Reginaldo Boeke  
 
-I'm a Brazilian software engineer, currently focusing on front-end technologies and their ecosystem. But I also like to venture back-end in my spare time.
+**Software Engineer** from Brazil, passionate about building scalable and maintainable back-end systems.  
+I work mainly with **Go (Golang)**, designing **microservice architectures**, optimizing **performance**, and ensuring **observability** with tools like Prometheus, Loki, and Grafana.  
 
-I've been studying mainly Clean Code and Clean Architecture. <br><br>
+I also keep a solid foundation in **front-end development** (React, Angular 2+), which helps me design better APIs and cohesive system experiences.  
 
-### Find me elsewhere 🌎
-[LinkedIn](https://www.linkedin.com/in/reginaldo-boeke-44b77b150/) <br>
-[Instagram](https://www.instagram.com/reginaldoboeke) <br> <br>
+---
 
+### ⚙️ Tech Stack  
+**Languages:** Go, TypeScript, JavaScript, PHP  
+**Databases:** MySQL, MariaDB, MongoDB, ElasticSearch, SQLite, Firebird, PostgreSQL
+**Infra & Tools:** Docker, Redis, RabbitMQ, Lambda, Prometheus, Loki, Grafana  
 
-### Technologies  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="36" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="36" />  
-</div>
+---
+
+### 🌍 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-boeke-44b77b150/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/reginaldoboeke/)
